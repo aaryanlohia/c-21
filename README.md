@@ -1,2 +1,2 @@
-# c-21
-passing arguments
+# collisionAlgorithm
+Algorithm to detect collision between two objects
